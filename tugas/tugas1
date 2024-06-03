@@ -1,0 +1,7 @@
+<?php
+echo "Nama : sheltia monica<br>";
+echo "Asal kampus : Universitas Bandar Lampung<br>";
+echo "Jurusan : Sistem Informasi<br>";
+echo "Kota : Bandar Lampung<br>";
+echo "PHP : Belum Pernah<br>";
+echo "HTML : Pernah<br>";

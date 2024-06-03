@@ -1,0 +1,34 @@
+[
+    {
+        "NIM": "1",
+        "Nama": "aldy",
+        "Jenis_Kelamin": "Laki-laki",
+        "Tempat_Lahir": "Lampung Barat",
+        "Tanggal_Lahir": "24-12-2000",
+        "Agama": "Islam",
+        "Alamat": "sumber jaya",
+        "No_Telpn": "082177892175",
+        "Email": "aldy@gmail.com",
+        "Jurusan": "tehnik sipil",
+        "Matakuliah": "bahasa indonesia",
+        "Nilai": "100",
+        "NH": "A",
+        "KET": "Lulus"
+    },
+    {
+        "NIM": "21411008",
+        "Nama": "sheltia",
+        "Jenis_Kelamin": "Perempuan",
+        "Tempat_Lahir": "natar",
+        "Tanggal_Lahir": "10-01-2003",
+        "Agama": "Islam",
+        "Alamat": "bandar lampung",
+        "No_Telpn": "0815412395",
+        "Email": "sheltia@gmail.com",
+        "Jurusan": "Sistem Informasi",
+        "Matakuliah": "basis data",
+        "Nilai": "50",
+        "NH": "E",
+        "KET": "Tidak Lulus"
+    }
+]
